@@ -1,13 +1,13 @@
-# SAML
+## SAML
 Collect and Select: Semantic Alignment Metric Learning for Few-shot Learning, ICCV 2019.
 
-# Requirements
+## Requirements
 
 Python 2.7
 
 Pytorch 0.4
 
-# Train & test
+## Train & test
 
 run.sh
 
