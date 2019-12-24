@@ -1,4 +1,5 @@
 ## SAML
+
 Collect and Select: Semantic Alignment Metric Learning for Few-shot Learning, ICCV 2019.
 
 ## Requirements
@@ -6,6 +7,11 @@ Collect and Select: Semantic Alignment Metric Learning for Few-shot Learning, IC
 Python 2.7
 
 Pytorch 0.4
+
+## Data
+
+For the mini-Imagenet dataset, please follow [mini-imagenet-tools](https://github.com/yaoyao-liu/mini-imagenet-tools)
+
 
 ## Train & test
 
